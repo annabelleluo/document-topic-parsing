@@ -14,5 +14,10 @@ conda create -n <env_name> python=3.11
 - Install the dependencies
 ```shell
 conda activate <env_name>
-pip install -r requirements.txt
+pip install -r requirements.txt 
+```
+
+## Usage
+```shell
+python main.py --openai_key="your-token" --document="sample_docu"
 ```
