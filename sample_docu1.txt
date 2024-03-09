@@ -1,0 +1,18 @@
+A year after Musk’s takeover, X says an average user spends 32 minutes per day on the platform
+On the eve of the one-year anniversary of Musk taking over Twitter (now X), the company published a retrospective blog post examining how it has fared under the new management. There are a lot of numbers in the post, but one that sticks out is a claim that an average user spends 32 minutes on the platform.
+
+X’s CEO Linda Yaccarino said in a blog post that overall users spend 7.8 billion active minutes every day. It’s hard to make out what “active minutes” means. However, it’s lower than the 8 billion active minutes Musk tweeted about last year. Similarly, the figure of 1.5 million sign-ups per day is also lower than Musk’s 2 million per day sign-up figure from a year ago. In other words, X is growing at a slower pace and engagement is slowly declining
+
+The social network noted that Premium users are spending three times longer on X than nonpaying users. That’s not surprising, given X is incentivizing a set of eligible premium users for a payout. Last month, the company claimed that it had paid $20 million to creators, and that figure in the blog post is unchanged.
+
+X’s figures differ a bit from reporting by various analytics companies. Apptopia said that the users who use both Threads and X spent 23.8 minutes and 31.1 minutes per day, respectively, when Meta launched the former. However, those figures have gone down to 3.7 minutes and 16.9 minutes, respectively. The firm added that U.S.-based X users were spending 20.6 minutes per day on average in September.
+
+Yaccarino also mentioned that “half a billion of the world’s most informed and influential people” are coming to the platform every month. In September, Musk mentioned that the social network had 550 million monthly active users. So no change there.
+
+While Yaccarino didn’t mention daily active users (DAUs) in the blog post, she recently mentioned that the platform has around 245 million DAUs. According to Sensor Tower (via The Wall Street Journal), X’s daily active users in September 2023 have fallen by 16% as compared to October 2022.
+
+Intriguingly, X also boasted about providing free API access to the Metropolitan Transportation Authority (MTA) of New York and the National Weather Service. However, this move only came about when these accounts decided to either limit or end their update stream after the company discontinued its free API. The company also famously killed third-party Twitter apps by changing its API terms earlier this year.
+
+With the new blog post, X is trying to paint a rosy picture claiming that advertisers are returning to the platform and the company is engaging with different groups to ensure users’ safety. However, Reuters reported earlier this month that ad revenue earned by the platform is on the decline.
+
+While the company talked about its future plans, including facilitating payments, it didn’t expand much on its work in the Trust and Safety area. Regulators around the world are not happy with X’s efforts around battling CSAM (child sexual abuse material) and misinformation. The blog post also crucially didn’t talk about how the platform plans to work on election integrity given both the U.S. and India have major elections coming up next year.
